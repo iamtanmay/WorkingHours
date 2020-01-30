@@ -26,6 +26,6 @@
 24.01 10.00-17.00               7 hours
 27.01 10.00-18.00               8 hours
 28.01 10.15-12.00 13.00-18.45   7.5 hours
-29.01 [8 hours in CATS]
-30.01 [8 hours in CATS]
+29.01 [8 hours in CATS] 10.00-19.00             9 hours
+30.01 [8 hours in CATS] 10.00-11.30 12.00-18.00 7.5 hours
 31.01 [8 hours in CATS]
